@@ -54,7 +54,7 @@ This analysis led to a number of useful findings:
 
 ## Further Analysis
 
-We could glean some addidtional insights from this data by increasing the rigour of our statistical analysis. Some areas I'd like to explore:
+We could glean some additional insights from this data by increasing the rigour of our statistical analysis. Some areas I'd like to explore:
 
 - Is the decreasing number of movies being produced a blip or a trend, and are growing production budgets in some way causing this to happen?
 - Is there any sort of causation between average ratings and revenues? What other factors lead to high average ratings? Is there a way to engineer movie production to create only high rating movies?
