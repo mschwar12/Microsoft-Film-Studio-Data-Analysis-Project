@@ -31,17 +31,17 @@ The data allowed for genre-specific analysis, what movies cost the most and how 
 
 We find that average rating and total revenues are highly correlated.
 
-![ratings and revenues](http://localhost:8888/view/Microsoft-Film-Studio-Data-Analysis-Project/images/ratings_revenue.png)
+![ratings and revenues](/images/ratings_revenue.png)
 
 Average budgets are increasing year-over-year.
 
-![budgets_year](http://localhost:8888/view/Microsoft-Film-Studio-Data-Analysis-Project/images/budgets_year.png)
+![budgets_year](/images/budgets_year.png)
 
 The average rating for the top ROI movies is well below those of the top grossing
 
-![rating_roi](http://localhost:8888/view/Microsoft-Film-Studio-Data-Analysis-Project/images/ratings_roi.png)
+![rating_roi](/images/ratings_roi.png)
 
-![rating_top_gross](http://localhost:8888/view/Microsoft-Film-Studio-Data-Analysis-Project/images/ratings_top_gross.png)
+![rating_top_gross](/images/ratings_top_gross.png)
 
 ## Conclusions
 
@@ -73,9 +73,11 @@ For any questions, please contact Matt Schwartz at [mtschwart@gmail.com](mailto:
 ## Repository Structure
 
 ```
-├── data
 ├── images
-├── README.md
+├── data
+├── CONTRIBUTING.md
+├── Microsoft_Film_Studio_Project_Presentation.pdf
 ├── Microsoft_Film_Studio_Project_Submission.pdf
-└── Microsoft_Film_Studio_Project_Submission.ipynb
+├── Microsoft_Film_Studio_Project_Submission.ipynb
+├── README.md
 ```
