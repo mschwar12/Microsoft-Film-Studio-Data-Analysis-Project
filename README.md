@@ -76,6 +76,8 @@ For any questions, please contact Matt Schwartz at [mtschwart@gmail.com](mailto:
 ├── images
 ├── data
 ├── CONTRIBUTING.md
+├── LICENSE.md
+├── Link_to_Presentation_Recording.docx
 ├── Microsoft_Film_Studio_Project_Presentation.pdf
 ├── Microsoft_Film_Studio_Project_Submission.pdf
 ├── Microsoft_Film_Studio_Project_Submission.ipynb
